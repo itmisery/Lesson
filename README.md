@@ -1,4 +1,4 @@
 # Lesson
 
 Hi there, my name is Mike!)
-I`m editin my main branch
+I`m editing my main branch
