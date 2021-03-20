@@ -1,6 +1,6 @@
 ﻿// Array2.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-
+//You edited this file properly!
 #include <iostream>
 #include <cmath>
 using namespace std;
